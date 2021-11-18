@@ -249,6 +249,34 @@ span {
 .balloon > div:nth-child(15):before {
     color: rgba(15, 219, 234, 0.9);
 }
+.balloon > div:nth-child(16) {
+    background: rgba(15, 219, 234, 0.9);
+    left: 700px;
+    top: 200px;
+    box-shadow: inset 10px 10px 10px rgba(15, 219, 234, 0.9);
+    -webkit-animation: balloon2 6s ease-in-out infinite;
+    -moz-animation: balloon2 6s ease-in-out infinite;
+    -o-animation: balloon2 6s ease-in-out infinite;
+    animation: balloon2 6s ease-in-out infinite;
+}
+.balloon > div:nth-child(16):before {
+    color: rgba(15, 219, 234, 0.9);
+}
+.balloon > div:nth-child(17) {
+    background: rgba(15, 219, 234, 0.9);
+    left: 700px;
+    top: 200px;
+    box-shadow: inset 10px 10px 10px rgba(15, 219, 234, 0.9);
+    -webkit-animation: balloon2 6s ease-in-out infinite;
+    -moz-animation: balloon2 6s ease-in-out infinite;
+    -o-animation: balloon2 6s ease-in-out infinite;
+    animation: balloon2 6s ease-in-out infinite;
+}
+.balloon > div:nth-child(17):before {
+    color: rgba(15, 219, 234, 0.9);
+}
+
+
 /* Avatar  */
 .avatar {
     cursor: pointer;
