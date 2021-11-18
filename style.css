@@ -107,7 +107,7 @@ span {
 }
 .balloon > div:nth-child(6) {
     background: rgba(242, 194, 58, 0.9);
-    left: -150px;
+    left: -550px;
     top: 200px;
     box-shadow: inset 10px 10px 10px rgba(234, 177, 15, 0.9);
     -webkit-animation: balloon4 3s ease-in-out infinite;
